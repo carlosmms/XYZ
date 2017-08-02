@@ -499,7 +499,7 @@ img {
 }
 
 .image {
-  max-width: 15%;
+  max-width: 30%;
   margin-right: 12%;
   margin-left: 12%;
   text-align: right;
@@ -510,7 +510,7 @@ img {
 }
 
 .container-2 {
-  margin-top: -65px;
+  margin-top: -130px;
   font-family: Montserrat, sans-serif;
 }
 
