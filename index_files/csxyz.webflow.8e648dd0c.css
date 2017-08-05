@@ -174,7 +174,7 @@ img {
 
 .nav-link.w--current {
   font-family: Montserrat, sans-serif;
-  color: #00d6b4;
+  color: #c50eff;
 }
 
 .logo {
@@ -499,7 +499,7 @@ img {
 }
 
 .image {
-  max-width: 15%;
+  max-width: 30%;
   margin-right: 12%;
   margin-left: 12%;
   text-align: right;

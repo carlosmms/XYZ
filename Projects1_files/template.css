@@ -272,7 +272,7 @@ img {
 
 .nav-link.w--current {
   font-family: Montserrat, sans-serif;
-  color: #00d6b4;
+  color: #c50eff;
 }
 
 .logo {
@@ -751,7 +751,7 @@ img {
     min-height: 50px;
   }
   .hero.project-page {
-    min-height: 226px;
+    min-height: 150px;
   }
   .form {
     width: 90%;
