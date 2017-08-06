@@ -87,7 +87,7 @@ p {
 
 a {
   font-family: Montserrat, sans-serif;
-  color: #00d6b4;
+  color: rgb(254, 220, 188);
   text-decoration: none;
 }
 
@@ -499,23 +499,25 @@ img {
 }
 
 .image {
-  max-width: 30%;
+  max-width: 25%;
   margin-right: 12%;
   margin-left: 12%;
   text-align: right;
+      display: block;
+    margin: 0 auto;
 }
 
 .container {
-  text-align: right;
+  text-align: left;
 }
 
 .container-2 {
-  margin-top: -65px;
+  margin-top: 0px;
   font-family: Montserrat, sans-serif;
 }
 
 .body {
-  background-color: #2a2a2a;
+  background-color: #101010;
   font-family: Montserrat, sans-serif;
 }
 
@@ -533,7 +535,7 @@ img {
 
 .text-block {
   font-family: Montserrat, sans-serif;
-  font-size: 18px;
+  font-size: 11px;
   font-weight: 300;
 }
 
@@ -567,7 +569,7 @@ img {
     min-height: 100px;
   }
   .hero.project-page {
-    min-height: 344px;
+    min-height: 100px;
   }
   .nav {
     margin-top: 0px;
@@ -607,7 +609,7 @@ img {
     min-height: 50px;
   }
   .hero.project-page {
-    min-height: 256px;
+    min-height: 100px;
   }
   .nav {
     padding-top: 0px;
@@ -653,7 +655,7 @@ img {
     min-height: 50px;
   }
   .hero.project-page {
-    min-height: 226px;
+    min-height: 100px;
   }
   .form {
     width: 90%;
