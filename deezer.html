@@ -2,6 +2,18 @@
 <html lang="en">
   <head>
    <title></title>
+   <style>
+.loader {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  background: url('ball2.gif') 50% 50% no-repeat rgb(0, 0, 0);
+}
+
+   </style>
 
     
     
@@ -24,12 +36,18 @@
 <script src="./js/jquery.min.js"></script><script src="sss/sss.min.js"></script><link rel="stylesheet" href="sss/sss.css" type="text/css" media="all"><script>jQuery(function($) {$('.slider').sss();});</script>
 
 
+<script type="text/javascript">
+$(window).load(function() {
+  $(".loader").fadeOut("slow");
+})
+</script>
 
 
 </head>
 
 
 <body class="body">
+<div class="loader"></div>
 
 <div class="hero project-page">
 
