@@ -455,9 +455,9 @@ img {
 }
 
 .project-body-copy {
-  margin-right: 12%;
+  margin-right: 0%;
   margin-bottom: 67px;
-  margin-left: 12%;
+  margin-left: 0%;
   font-family: Montserrat, sans-serif;
 }
 
@@ -590,8 +590,8 @@ img {
     background-color: #000;
   }
   .project-body-copy {
-    margin-right: 12%;
-    margin-left: 12%;
+    margin-right: 0%;
+    margin-left: 0%;
   }
 }
 
