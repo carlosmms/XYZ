@@ -596,6 +596,11 @@ img {
 }
 
 @media (max-width: 767px) {
+
+
+	.prototype{
+        display: none !important;
+    }
   .hero {
     min-height: 420px;
   }
