@@ -201,13 +201,13 @@ img {
 .button {
   padding-right: 25px;
   padding-left: 25px;
-  border: 1px solid #00d6b4;
+  border: 1px solid #c50eff;
   border-radius: 3px;
   background-color: transparent;
   -webkit-transition: all 200ms ease;
   transition: all 200ms ease;
   font-family: Lato, sans-serif;
-  color: #00d6b4;
+  color: #c50eff;
   font-size: 13px;
   line-height: 19px;
   font-weight: 300;
@@ -398,7 +398,7 @@ img {
 }
 
 .input:focus {
-  box-shadow: inset 0 0 0 2px #00d6b4;
+  box-shadow: inset 0 0 0 2px #c50eff;
 }
 
 .input.text-area {
@@ -578,7 +578,7 @@ img {
     color: #fff;
   }
   .menu-button:hover {
-    color: #00d6b4;
+    color: #c50eff;
   }
   .menu-button.w--open {
     background-color: #000;
