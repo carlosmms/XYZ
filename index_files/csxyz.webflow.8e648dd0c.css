@@ -99,7 +99,7 @@ img {
 
 .hero {
   min-height: 540px;
-  margin-bottom: -400px;
+  margin-bottom: -450px;
   background-image: none;
   background-position: 0px 0px;
 }
@@ -232,8 +232,8 @@ img {
 }
 
 .section {
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 30px;
+
 }
 
 .content-wrapper {
@@ -606,7 +606,7 @@ img {
         display: none !important;
     }
   .hero {
-    min-height: 420px;
+    min-height: 500px;
   }
   .hero.small {
     min-height: 280px;
